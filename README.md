@@ -2,6 +2,9 @@
 
 A system that tracks LLM usage over time and analyzes cost drift, response variance, and embedding stability across model versions.
 
+## Project plan
+See the full project plan for objectives, architecture, and milestones in [`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md).
+
 ## Why it’s unique
 Most teams use LLMs blindly. Very few measure them.
 
